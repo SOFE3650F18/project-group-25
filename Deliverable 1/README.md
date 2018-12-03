@@ -42,7 +42,7 @@
 
 ### Use Case Models
 
-​	![Use_Case_Diagram.png](..\Deliverable 1\assets\Use_Case_Diagram.png)
+​	![Use_Case_Diagram.png](https://github.com/SOFE3650F18/project-group-22/blob/master/Deliverable 1/assets/Use_Case_Diagram.png)
 
 
 

@@ -42,7 +42,7 @@
 
 ### Use Case Models
 
-​	![Use_Case_Diagram.png](https://github.com/SOFE3650F18/project-group-25/tree/master/Deliverable1/Assets/Use_Case_Diagram.png)
+​	![Use_Case_Diagram.png](https://github.com/SOFE3650F18/project-group-25/blob/master/Deliverable1/Assets/Use_Case_Diagram.png)
 
 ## Quality attribute scenarios 
 

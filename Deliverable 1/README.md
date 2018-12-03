@@ -42,7 +42,7 @@
 
 ### Use Case Models
 
-​	![Use_Case_Diagram.png](C:\Users\Karan\Desktop\ARC garbage\Ours\Deliverable 1\assets\Use_Case_Diagram.png)
+​	![Use_Case_Diagram.png](..\Deliverable 1\assets\Use_Case_Diagram.png)
 
 
 

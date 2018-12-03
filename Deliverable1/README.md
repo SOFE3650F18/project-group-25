@@ -42,7 +42,47 @@
 
 ### Use Case Models
 
-​	![Use_Case_Diagram.png](https://github.com/SOFE3650F18/project-group-22/blob/master/Deliverable1/assets/Use_Case_Diagram.png)
+​	![Use_Case_Diagram.png](https://github.com/SOFE3650F18/project-group-25/tree/master/Deliverable1/Assets/Use_Case_Diagram.png)
+
+## Quality attribute scenarios 
+
+#### Quality attributes: performance, modifiability, availability, usability, security, reliability, efficiency, maintainability
+
+| ID    | Quality Attributes                         | Scenario                                                     | Associated Use Case    |
+| ----- | ------------------------------------------ | ------------------------------------------------------------ | ---------------------- |
+| QA-1  | Usability                                  | User can perform a desirable task (if they are allowed to) without any hesitation from the system. | All                    |
+| QA-2  | Maintainability                            | System should maintain data that is stored.                  | UC- 25, UC- 15         |
+| QA-3  | Performance                                | System must respond within 3 seconds to a users request to do a task. | All                    |
+| QA-4  | Security                                   | Only administrator can be authorized changes towards courses. | UC- 18, UC- 19, UC- 20 |
+| QA-5  | Security, availability, modifiability      | Only administrators can access information about students and lecturers and also modify it. | UC- 21, UC- 22         |
+| QA-6  | Maintainability, availability, reliability | Restore backup of data if system failures occur or the system is being updated | UC- 16                 |
+| QA-7  | Scalability                                | As more users are added to the system, improved hardware will be required to manage and handle the extensive load put on by the increase in the user count. | UC- 17                 |
+| QA-8  | Testability                                | All features should be able to be tested by system maintainers and if applicable, even the users should be able to see if the functionality of desired task is done correctly. | All                    |
+| QA-9  | Security                                   | A student views only their grades and no one else can view them except lecturers and administrators. | UC- 5, UC- 9           |
+| QA-10 | Usability                                  | Administration uses grades to get grade statistics.          | UC- 23                 |
+| QA-11 | Availability                               | Backup system is provided when system is down for maintenance or updating | All                    |
+
+
+
+## Constraints
+
+| ID     | Constraints                                                  |
+| ------ | ------------------------------------------------------------ |
+| CON- 1 | Certain minimum of students must be enrolled in a coarse for the course to given in a semester |
+| CON- 2 | A highly reliable database with high storage capacity is required to store the information of students and lecturers. |
+| CON- 3 | System must be accessed from browsers like Google Chrome, Firefox, Safari, IE in platforms like , Windows, IOS, Linux, OSX, Android. |
+| CON- 4 | High bandwidth is required to upload files to the system and download files from the system. |
+| CON- 5 | A minimum of 500 users should be able to access the system at any time simultaneously. |
+
+
+
+## Architectural Concerns
+
+| ID    | Concerns                                                     |
+| ----- | ------------------------------------------------------------ |
+| CRN-1 | Establishing an overall initial system structure             |
+| CRN-2 | Leverage the team’s knowledge about Java Web start, JMS framework, Java language, HTML, CSS, node.JS, Angular |
+| CRN-3 | Distribute work to members of the development team           |
 
 
 

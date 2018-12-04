@@ -49,4 +49,9 @@ The first step of the ADD method involves reviewing the inputs and identifying w
 ​	CRN - 3: Distribute work to members of the development team
 
 
+## ADD Step 3: Choose One or More Elements of the System to Refine
+
+*Since this is a greenfield development effort, the element to refine is the CMS. The refinement would be performed through decomposition.* 
+
+![ss](https://github.com/SOFE3650F18/project-group-25/blob/master/Deliverable2/Iteration1/Assets/diagram_1.png)
 

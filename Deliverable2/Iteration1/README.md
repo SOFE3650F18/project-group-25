@@ -71,3 +71,60 @@ The first step of the ADD method involves reviewing the inputs and identifying w
 ## ADD Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
 
 No interface decisions can be made at this time. 
+
+## ADD Step 6: Sketch Views and Record Design Decisions
+
+The diagram below shows the two reference architectures that were selected for client and server applications.<br>
+
+![ss](https://github.com/SOFE3650F18/project-group-25/blob/master/Deliverable2/Iteration1/Assets/ref_architecture_1.png)
+
+*Client side:* 
+
+| Element | Responsibility |
+| --------|----------------|
+|Browser| Web browser would be running on the client machine be it the student, lecturer or administrator.|
+| User interface | This component has UI elements like buttons and text fields and they receive user interactions and present information to the user.|
+|UI process logic|Responsible for data validation, orchestrating interactions with business logic, and provide data that is coming from the business layer to the user interface components. |
+|Business logic|Retrieves and processes application data and applies business rules on the data. |
+|Business entities|These components represent the entities from the business domain and their associated business logic.|
+|Data access|Encapsulate persistence mechanisms and provide common operations used to retrieve and store information.|
+|Helpers and utilities|These components contain functionality common to other modules in the data layer but not specific to any of them. |
+|Service agents|Attract communication mechanisms used to transfer data to external services. |
+|Security| Handles security aspects like authorization and authentication. |
+| Operation management|These components handle exception management, logging and instrumentation and validation. |
+|Communication|Handles communication mechanisms across layers and the tiers. |
+
+*Server Side:*
+
+
+| Element              | Responsibility                                               |
+| -------------------- | ------------------------------------------------------------ |
+| Service interfaces   | Responsible for exposing services that are consumed by the components that run on the browser. |
+| Message types        | Manages the types of messages send between client and server. |
+| Business logic       | Retrieves and processes application data and applies business rules on the data. |
+| Business entities    | These components represent the entities from the business domain and their associated business logic. |
+| Data access          | Encapsulate persistence mechanisms and provide common operations used to retrieve and store information. |
+| Security             | Handles security aspects like authorization and authentication. |
+| Operation management | These components handle exception management, logging and instrumentation and validation. |
+| Communication        | Handles communication mechanisms across layers and the tiers. |
+
+**The diagram below shows the deployment of where the components of the modules shown above will be deployed. **
+
+![ss](https://github.com/SOFE3650F18/project-group-25/blob/master/Deliverable2/Iteration1/Assets/ref_architecture_2.png)
+
+
+| Element            | Responsibility                                               |
+| ------------------ | ------------------------------------------------------------ |
+| User browser       | The user's browser where the client side of the system will be hosted. |
+| Application server | Server that hosts server side of the system and also serves web pages. |
+| Database server    | Server that hosts legacy relational database.                |
+
+| Relationship                                   | Description                                                  |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| Between application server and database server | Communication with the database will be done using PostgreSQL. |
+
+
+
+## ADD Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
+
+![ADD PROJECT BOARD IMAGE](https://github.com/SOFE3650F18/project-group-25/blob/master/Deliverable2/Iteration1/Assets/step7.png)

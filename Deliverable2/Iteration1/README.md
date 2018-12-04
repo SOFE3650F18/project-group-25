@@ -127,4 +127,4 @@ The diagram below shows the two reference architectures that were selected for c
 
 ## ADD Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 
-![ADD PROJECT BOARD IMAGE](https://github.com/SOFE3650F18/project-group-25/blob/master/Deliverable2/Iteration1/Assets/i1step7.png)
+<a href="https://github.com/SOFE3650F18/project-group-25/projects/4?fullscreen=true">Click here for this iteration's analysis</a>

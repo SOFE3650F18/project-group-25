@@ -23,8 +23,8 @@ The elements to be refined in this iteration are the client side module from the
 | Angular prevents XSS | XSS (cross site scripting) is when an attacker can inject a client side script into web page that is viewed by other users which can steal user data and also impersonate a user. Angular treats all values that are inserted as untrusted by default and sanitizes and escapes untrusted values (QA - 5).|
 | Use a javascript functionality to make HTTP and RESTful API calls to the server | These will allow us to not only obtain data through the API call to server, but will allow us to trigger different instance of the views on the client side. This can be done by DOM manipulation and event listeners and calling the server to retrieve information. (QA-1, QA-5) |
 ## ADD Step 6: Sketch Views and Record Design Decisions
-![client_server_MVC]
-(https://github.com/SOFE3650F18/project-group-25/blob/master/Deliverable2/Iteration2/Assets/client_server_MVC.png)
+
+![client_server_MVC](https://github.com/SOFE3650F18/project-group-25/blob/master/Deliverable2/Iteration2/Assets/client_server_MVC.png)
 
 ## ADD Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 

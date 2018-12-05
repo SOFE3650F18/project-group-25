@@ -1,7 +1,5 @@
 # Team Assessment and Contribution
 
-## Assessment for Aakash
-
 **Team's Commitment:** 5.0
 
 **Team's Communication:** 5.0

@@ -15,15 +15,15 @@
 
 <br>
 
-### By Karan Patel
-**Team's Commitment:** 5.0
+### For Karan Patel
+**Team's Commitment:** 5.0 - Showed great commitment
 
-**Team's Communication:** 5.0
+**Team's Communication:** 5.0 - Communicated ideas clearly
 
-**Team's Knowledge, Skills and Abilities to perform the project:** 5.0
+**Team's Knowledge, Skills and Abilities to perform the project:** 5.0 - Showed great knowledge about the content
 
-**Team's Ethical Standards:** 5.0
+**Team's Ethical Standards:** 5.0 - Was not unethical 
 
-**Teams Focus:** 5.0
+**Teams Focus:** 5.0 - Was always focused
 
 

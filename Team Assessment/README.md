@@ -1,5 +1,5 @@
 # Team Assessment and Contribution
-By Aakash Patel
+**By Aakash Patel**
 **Team's Commitment:** 5.0
 
 **Team's Communication:** 5.0
@@ -10,7 +10,7 @@ By Aakash Patel
 
 **Teams Focus:** 5.0
 
-By Karan Patel
+**By Karan Patel**
 **Team's Commitment:** 5.0
 
 **Team's Communication:** 5.0

@@ -1,5 +1,16 @@
 # Team Assessment and Contribution
+By Aakash Patel
+**Team's Commitment:** 5.0
 
+**Team's Communication:** 5.0
+
+**Team's Knowledge, Skills and Abilities to perform the project:** 5.0
+
+**Team's Ethical Standards:** 5.0
+
+**Teams Focus:** 5.0
+
+By Karan Patel
 **Team's Commitment:** 5.0
 
 **Team's Communication:** 5.0
